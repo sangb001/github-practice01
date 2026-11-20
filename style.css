@@ -15,7 +15,8 @@ body {
 }
 
 .layout {
-  width: 1040px;
+  width: 100%;
+  max-width:1040px;
   margin: 0 auto;
   padding: 28px;
 }
